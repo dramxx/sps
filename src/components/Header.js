@@ -19,7 +19,6 @@ const Header = (props) => (
                     <span id="heading_3">strana</span>
                 </h1>
                 <p id="subheading">S VAMI NA JEDNEJ LODI.</p>
-                <p id="subheading">test</p>
             </div>
         </div>
 
